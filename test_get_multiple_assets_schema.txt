@@ -1,0 +1,1 @@
+test_get_multiple_assets_schema
